@@ -1,0 +1,44 @@
+/* div{
+    border: 1px solid red;
+}
+ */
+.myContainer{
+    margin-top: 3vw;
+}
+
+.destination{
+    width: 30w;
+    height: 20vw;
+}
+
+.price{
+    background-color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10pt;
+}
+
+.location{
+    color: white;
+    font-weight: bold;
+    font-size: 10pt;
+}
+
+#des1 {
+    background-size: 30vw 20vw;
+    background-repeat: no-repeat;
+    background-image: url("https://cdn.pixabay.com/photo/2020/02/10/01/24/skiing-4835024_960_720.jpg");
+}
+
+#des2 {
+    background-size: 30vw 20vw;
+    background-repeat: no-repeat;
+    background-image: url("https://cdn.pixabay.com/photo/2019/03/10/16/38/vorarlberg-4046557_960_720.jpg");
+}
+
+
+#des3 {
+    background-size:30vw 20vw;
+    background-repeat: no-repeat;
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/16/15/22/japan-725802_960_720.jpg");
+}
+

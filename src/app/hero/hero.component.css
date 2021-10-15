@@ -1,0 +1,18 @@
+.myStyle {
+  width: 100vw;
+  height: 50vw;
+  background-size: 100vw 50vw;
+  background-image: url("https://cdn.pixabay.com/photo/2019/12/29/17/45/winter-4727668_960_720.jpg");
+}
+
+#myHeadline {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+}
+
+#myHeadline2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  color: #d65c0b;
+}
+/*# sourceMappingURL=hero.component.css.map */
